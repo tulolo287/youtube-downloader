@@ -1,0 +1,10 @@
+[project]
+name = "youtube-downloader"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pvpn>=0.2.5",
+    "pytube>=15.0.0",
+]
